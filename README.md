@@ -38,7 +38,7 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1><u>Top five web application development frameworks.</u><h1>
+<h1><u>Languages used in Web.</u><h1>
 <ul>
 <li>Django</li>
 <li>Angular or Angular JS</li>
@@ -61,7 +61,11 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![Screenshot (7)](https://user-images.githubusercontent.com/121418437/228280044-59c58a5f-f24e-4371-ae4e-72b5e7a8eee3.png)
+
+![webO1](https://user-images.githubusercontent.com/121418437/229303593-49db537b-eb57-4914-aba7-b3e17ac61a18.PNG)
+
+![webO2](https://user-images.githubusercontent.com/121418437/229303628-f08ecea6-f812-4bce-8ef1-0816c9501bd4.PNG)
 
 ## RESULT:
-The program is executed succesfully
+
+  The program is executed succesfully
